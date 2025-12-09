@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 18864442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1fddf2ef474dfea69033340a30373bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b90360021f95c293bf3f1bef88434a62
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d1fddf2ef474dfea69033340a30373bf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sample/Resources/MyAssets-SD/myTexture.png
+- Assets/AssetBundle/Sample/Resources/MyAssets-SD/someMaterial.mat
+Dependencies:
+- C:/Users/Ace World/Desktop/AssetBundleManager-master/AssetBundles/Android/logo.sd

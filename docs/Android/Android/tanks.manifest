@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 1331800691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4aad2af4a91d3c65ab5a277b648eff7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0724a18be6b729e4dc0c7c8285f46dc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a4aad2af4a91d3c65ab5a277b648eff7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/AssetBundle/Sample/Resources/Tanks/Models/Tank.fbx
+- Assets/AssetBundle/Sample/Resources/Tanks/Materials/YellowLight.mat
+- Assets/AssetBundle/Sample/Resources/Tanks/Models/Dunes01.fbx
+- Assets/AssetBundle/Sample/Resources/Tanks/Models/Column02.FBX
+- Assets/AssetBundle/Sample/Resources/Tanks/Models/Terrain.fbx
+- Assets/AssetBundle/Sample/Resources/Tanks/Models/Cactus.fbx
+- Assets/AssetBundle/Sample/Resources/Tanks/Materials/TankColour.mat
+- Assets/AssetBundle/Sample/Resources/Tanks/Materials/TankLights.mat
+- Assets/AssetBundle/Sample/Resources/Tanks/Variants/Skins/Desert-SD/TankAlbedo.png
+- Assets/AssetBundle/Sample/Resources/Tanks/Materials/YellowDark.mat
+- Assets/AssetBundle/Sample/Resources/Tanks/Models/Column01.FBX
+- Assets/AssetBundle/Sample/Resources/Tanks/Materials/TankGrey.mat
+- Assets/AssetBundle/Sample/Resources/Tanks/Variants/Language/Danish/Canvas.prefab
+- Assets/AssetBundle/Sample/Resources/Tanks/Materials/Brown.mat
+- Assets/AssetBundle/Sample/Resources/Tanks/Prefabs/Background.prefab
+- Assets/AssetBundle/Sample/Resources/Tanks/Variants/Skins/Desert-HD/TankAlbedo.png
+- Assets/AssetBundle/Sample/Resources/Tanks/Variants/Language/English/Canvas.prefab
+- Assets/AssetBundle/Sample/Resources/Tanks/Models/Tree.fbx
+- Assets/AssetBundle/Sample/Resources/Tanks/Variants/Skins/Normal-HD/TankAlbedo.png
+- Assets/AssetBundle/Sample/Resources/Tanks/Materials/Green.mat
+- Assets/AssetBundle/Sample/Resources/Tanks/Variants/Skins/Normal-SD/TankAlbedo.png
+Dependencies: []

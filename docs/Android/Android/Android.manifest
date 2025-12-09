@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4211247411
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: myassets.sd
+      Dependencies:
+        Dependency_0: logo.sd
+    Info_1:
+      Name: scenes
+      Dependencies: {}
+    Info_2:
+      Name: logo.hd
+      Dependencies: {}
+    Info_3:
+      Name: logo.sd
+      Dependencies: {}
+    Info_4:
+      Name: tanks
+      Dependencies: {}
+    Info_5:
+      Name: textures
+      Dependencies: {}
+    Info_6:
+      Name: myassets.hd
+      Dependencies:
+        Dependency_0: logo.hd
+    Info_7:
+      Name: scene-tanksexample.texture
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: tanks
